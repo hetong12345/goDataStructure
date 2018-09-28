@@ -1,4 +1,4 @@
-package data
+package goDataStructure
 
 import "fmt"
 

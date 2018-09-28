@@ -1,4 +1,4 @@
-package data
+package goDataStructure
 
 type avlTreeSet struct {
 	atm *AvlTreeMap

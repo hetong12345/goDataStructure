@@ -1,4 +1,4 @@
-package data
+package goDataStructure
 
 type TrieMap struct {
 	root *trieMapNode

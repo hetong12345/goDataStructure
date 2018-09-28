@@ -1,4 +1,4 @@
-package data
+package goDataStructure
 
 type Queue interface {
 	//队列
